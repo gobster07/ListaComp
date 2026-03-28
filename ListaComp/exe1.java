@@ -101,7 +101,7 @@ public class exe1
             }
         }
 
-        System.out.println(price);
+        System.out.println("Preço de estadia: R$" + price);
 
     }
 }
